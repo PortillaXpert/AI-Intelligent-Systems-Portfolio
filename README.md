@@ -2,7 +2,7 @@
 
 <h1 align="center">AI & Intelligent Systems Portfolio</h1>
 <p align="center">
-<img src="images/IA.png" alt="Portfolio Banner" width="700">
+<img src="images/ia.png" alt="Portfolio Banner" width="700">
 </p>
 <p class="lead" align="center">
 
